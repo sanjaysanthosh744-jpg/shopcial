@@ -1,0 +1,6 @@
+{
+  "name": "Shopcial",
+  "description": "Social-commerce discovery platform connecting local stores, online comparison, and Ask Friends purchase decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
